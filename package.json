@@ -1,0 +1,17 @@
+{
+  "name": "ModusEcho",
+  "version": "0.0.1",
+  "description": "",
+  "cordova": {
+    "id": "com-moduscreate-plugins-echo",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "",
+  "license": "ISC"
+}
