@@ -13,5 +13,6 @@
             </feature>
         </config-file>
         <source-file src="src/android/ModusEcho.java" target-dir="src/com/moduscreate/plugin" />
+        <source-file src="src/android/libs/commons-net-2.2.jar" target-dir="libs" />
     </platform>
 </plugin>

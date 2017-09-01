@@ -14,3 +14,7 @@ exports.echojs = function (arg0, success, error) {
         error('Empty message!');
     }
 };
+
+exports.ntp = function(success, error) {
+    exec(success, error, "ModusEcho", "ntp");
+}
